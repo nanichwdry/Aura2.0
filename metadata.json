@@ -1,0 +1,8 @@
+{
+  "name": "Aura AI Assistant",
+  "description": "A voice-powered AI assistant with real-time Google Maps integration, search grounding, and persistent memory.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
